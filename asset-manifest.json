@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/nuworks-todo-app-Frontend/static/css/main.56695db3.css",
-    "main.js": "/nuworks-todo-app-Frontend/static/js/main.ca93cf9e.js",
+    "main.js": "/nuworks-todo-app-Frontend/static/js/main.e3c5a2b3.js",
     "static/js/787.2843ca88.chunk.js": "/nuworks-todo-app-Frontend/static/js/787.2843ca88.chunk.js",
     "static/media/logo.svg": "/nuworks-todo-app-Frontend/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/nuworks-todo-app-Frontend/index.html",
     "main.56695db3.css.map": "/nuworks-todo-app-Frontend/static/css/main.56695db3.css.map",
-    "main.ca93cf9e.js.map": "/nuworks-todo-app-Frontend/static/js/main.ca93cf9e.js.map",
+    "main.e3c5a2b3.js.map": "/nuworks-todo-app-Frontend/static/js/main.e3c5a2b3.js.map",
     "787.2843ca88.chunk.js.map": "/nuworks-todo-app-Frontend/static/js/787.2843ca88.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.56695db3.css",
-    "static/js/main.ca93cf9e.js"
+    "static/js/main.e3c5a2b3.js"
   ]
 }
