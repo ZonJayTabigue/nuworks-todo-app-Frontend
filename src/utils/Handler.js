@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const baseUrl = 'https://nuworks-todo-app-r7mi6wy8d-zonjaytabigue.vercel.app'
+const baseUrl = 'https://todo-app-be-y4lg.onrender.com'
 
 const getTodosApi =  (setTodo) => {
     axios.get(baseUrl)
