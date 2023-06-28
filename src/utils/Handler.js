@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const baseUrl = 'http://localhost:5000'
+const baseUrl = 'https://nuworks-todo-app-r7mi6wy8d-zonjaytabigue.vercel.app'
 
 const getTodosApi =  (setTodo) => {
     axios.get(baseUrl)
